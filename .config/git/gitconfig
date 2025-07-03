@@ -1,7 +1,3 @@
-[user]
-	email = ravisara.dev@gmail.com
-	name = nipunravisara
-
 [alias]
 	st = status
 	ck = checkout
