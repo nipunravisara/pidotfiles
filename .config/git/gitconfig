@@ -1,0 +1,13 @@
+[user]
+	email = ravisara.dev@gmail.com
+	name = nipunravisara
+
+[alias]
+	st = status
+	ck = checkout
+	co = commit -m
+	br = branch
+
+[http]
+	postBuffer = 157286400
+	sslVerify = false
