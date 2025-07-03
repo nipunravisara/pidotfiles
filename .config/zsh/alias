@@ -1,0 +1,5 @@
+alias unix="curl -L http://git.io/unix"
+alias v="nvim"
+alias u="udisksctl unmount -b"
+alias m="udisksctl mount -b"
+alias r="ranger"
